@@ -1,0 +1,389 @@
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\marqu\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\marqu\OneDrive\Área de Trabalho\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic - Cópia\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\121780\Desktop\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Rui Cruz\Downloads\OpticMusic\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Em casa\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Em casa - Cópia\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\121780\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\122197\Desktop\OpticMusic Main - Cópia\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\122197\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Rui Cruz\Downloads\OpticMusic Main\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Main versao1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Main versao2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Main versao2 - Cópia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Main versao3\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\121780\Desktop\OpticMusic Main v1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\marqu\Downloads\trabalhos\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Hugo\Desktop\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.ResolveComReference.cache
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.licenses
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\marqu\OneDrive\Área de Trabalho\OpticMusic Main\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
