@@ -1,0 +1,298 @@
+location barra: 184; 718
+
+
+
+
+
+
+
+
+
+
+using Guna.UI2.WinForms;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.Xml.Serialization;
+using TheArtOfDevHtmlRenderer.Adapters;
+
+
+namespace PT_opticmusic
+{
+    public partial class Form3 : Form
+    {
+        bool play = false;
+        Queue<string> q = new Queue<string>();
+        string[] Musics = new string[1000];
+        int cont=0;
+        string a;
+        string[] files, paths; 
+        
+        WMPLib.WindowsMediaPlayer player = new WMPLib.WindowsMediaPlayer();
+       
+
+        public Form3()
+        {
+            InitializeComponent();
+            track_volume.Value  = 50;
+            label1.Text = "50%";
+
+        }
+       
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            if (play)
+            {
+                if (axWindowsMediaPlayer1.playState == WMPLib.WMPPlayState.wmppsPlaying)
+                {
+                    guna2ProgressBar1.Value = (int)axWindowsMediaPlayer1.Ctlcontrols.currentPosition;
+                    guna2ProgressBar1.Maximum = (int)axWindowsMediaPlayer1.Ctlcontrols.currentItem.duration;
+
+                }
+                try
+                {
+                    lbltime.Text = axWindowsMediaPlayer1.Ctlcontrols.currentPositionString;
+                    lbltime2.Text = axWindowsMediaPlayer1.Ctlcontrols.currentItem.durationString.ToString();
+                }
+                catch
+                {
+
+                }
+
+            }
+
+            
+            
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+           
+        
+
+            OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Multiselect = true;
+            if (ofd.ShowDialog()==System.Windows.Forms.DialogResult.OK )
+            {
+
+                files = ofd.SafeFileNames;
+            
+                paths = ofd.FileNames;
+                for (int i = 0; i <  files.Length; i++)
+                {
+                    
+                }                       
+            }
+
+        }
+
+
+      
+       
+        //private void LoadItems()
+        //{
+        //    FileInfo[] files = null;
+        //    string path = @"C:\Users\121780\Desktop\PT opticmusic - Cópia - Cópia\musicas";
+        //    DirectoryInfo folder = new DirectoryInfo(path);
+        //    files = folder.GetFiles("*.*", SearchOption.AllDirectories);
+
+        //    for (int i = 0; i < files.Length - 1; i++)
+        //    {
+        //        ListViewItem Item = new ListViewItem(Path.GetFileName(files[i].Name.ToString()));
+        //        Item.SubItems.Add(new ListViewItem.ListViewSubItem(Item, files[i].Name.ToString()));
+        //        // Item.SubItems.Add(new ListViewItem.ListViewSubItem(Item, open.FileName));
+        //        listview1.Items.Add(Item);
+        //    }
+        //}
+
+        private void guna2ProgressBar1_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+ 
+        private void Form3_Load(object sender, EventArgs e)
+        {
+            string[] files = Directory.GetFiles(@"C:\Users\122197\Desktop\PT opticmusic - Cópia - Cópia\musicas");
+            DataTable table = new DataTable();
+            table.Columns.Add("Nome");
+          
+            for(int i=0; i<files.Length; i++)
+            {
+                FileInfo file = new FileInfo(files[i]);
+                table.Rows.Add(file.Name);
+            }
+            dataGridView1.DataSource = table;
+        }
+        private void guna2ProgressBar1_ValueChanged_1(object sender, EventArgs e)
+        {
+         
+        }
+
+        private void guna2CircleButton1_Click(object sender, EventArgs e){
+            axWindowsMediaPlayer1.Ctlcontrols.play();
+        }
+        private void btn_save_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void axWindowsMediaPlayer2_Enter(object sender, EventArgs e)
+        {
+
+        }
+       
+
+        private void axWindowsMediaPlayer1_PlayStateChange(object sender, _WMPOCXEvents_PlayStateChangeEvent e)
+        {
+            if (axWindowsMediaPlayer1.playState == WMPLib.WMPPlayState.wmppsPlaying)
+            {
+                guna2ProgressBar1.Maximum = (int)axWindowsMediaPlayer1.Ctlcontrols.currentItem.duration;
+                timer1.Start();
+            }
+            else if (axWindowsMediaPlayer1.playState == WMPLib.WMPPlayState.wmppsPaused)
+            {
+                timer1.Stop();
+            }
+            else if (axWindowsMediaPlayer1.playState == WMPLib.WMPPlayState.wmppsStopped)
+            {
+                timer1.Stop();
+                guna2ProgressBar1.Value = 0;
+            }
+
+            
+
+        }
+
+        private void guna2CircleButton3_Click(object sender, EventArgs e)
+        {
+            axWindowsMediaPlayer1.Ctlcontrols.pause();
+        }
+
+        private void btn_Stop_Click(object sender, EventArgs e)
+        {
+            axWindowsMediaPlayer1.Ctlcontrols.stop();
+        }
+
+        private void lbltime_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        
+
+        private void trackBar1_Scroll(object sender, EventArgs e)
+        {
+            player.settings.volume = track_volume.Value;
+            label1.Text = track_volume.Value.ToString() + "%";
+        }
+
+        private void guna2ProgressBar1_MouseDown(object sender, MouseEventArgs e)
+        {
+            axWindowsMediaPlayer1.Ctlcontrols.currentPosition = player.currentMedia.duration * e.X / guna2ProgressBar1.Width;
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            axWindowsMediaPlayer1.URL = @"C:\Users\122197\Desktop\PT opticmusic - Cópia - Cópia\musicas\" + dataGridView1.Rows[e.RowIndex].Cells[0].Value.ToString();
+
+            // Play the media file. 
+            axWindowsMediaPlayer1.Ctlcontrols.play();
+
+        }
+    }
+}
+
+
+
+
+
+
+
+tirar o nome da extensao .mp3
+// Get the file path from a cell in the DataGridView
+string filePath = dataGridView1.Rows[rowIndex].Cells[columnIndex].Value.ToString();
+
+// Remove the file extension from the file path
+string fileNameWithoutExtension = Path.GetFileNameWithoutExtension(filePath);
+
+// Set the value of the cell to the file name without the extension
+dataGridView1.Rows[rowIndex].Cells[columnIndex].Value = fileNameWithoutExtension;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get FILE NAME AND TITLE
+
+
+string directoryPath = @"C:\Users\Rui Cruz\Downloads\OpticMusic\Config\Imagine Dragons"; // replace with your desired directory path
+
+            DirectoryInfo directoryInfo = new DirectoryInfo(directoryPath);
+
+            FileInfo[] files = directoryInfo.GetFiles(); // get all files in the directory
+
+            DataTable dataTable = new DataTable();
+            dataTable.Columns.Add("Name");
+            dataTable.Columns.Add("Title");
+
+            foreach (FileInfo file in files)
+            {
+                DataRow dataRow = dataTable.NewRow();
+                dataRow["Name"] = file.Name; // retrieve the file name and assign it to the data row
+                dataRow["Title"] = GetFileTitle(file.FullName); // retrieve the file title and assign it to the data row
+                dataTable.Rows.Add(dataRow); // add the data row to the data table
+            }
+
+            dataGridView1.DataSource = dataTable; // assign the data table as the data source of the DataGridView control
+
+            
+     
+    }
+        // Helper method to retrieve the file title from its full path
+        private string GetFileTitle(string filePath)
+        {
+            string fileTitle = string.Empty;
+
+            using (StreamReader reader = new StreamReader(filePath))
+            {
+                fileTitle = reader.ReadLine(); // read the first line of the file as the title
+            }
+
+            return fileTitle;
+        }
