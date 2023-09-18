@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{793018A1-1452-470E-A606-DD964820FA1A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.Licensing, Version=3.2.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b" />
+    <Reference Include="Bunifu.UI.WinForms.1.5.3">
+      <HintPath>..\..\BunifuCrack-main\Bunifu.UI.WinForms.1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\..\..\..\OneDrive\Área de Trabalho\BunifuCrack-main\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox">
+      <HintPath>..\..\BunifuCrack-main\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDropdown">
+      <HintPath>..\..\BunifuCrack-main\Bunifu.UI.WinForms.BunifuDropdown.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuFormDock">
+      <HintPath>..\..\BunifuCrack-main\Bunifu.UI.WinForms.BunifuFormDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuImageButton">
+      <HintPath>..\..\BunifuCrack-main\Bunifu.UI.WinForms.BunifuImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>..\..\BunifuCrack-main\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages">
+      <HintPath>..\..\..\..\OneDrive\Área de Trabalho\BunifuCrack-main\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox">
+      <HintPath>..\..\..\..\OneDrive\Área de Trabalho\BunifuCrack-main\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider">
+      <HintPath>..\..\BunifuCrack-main\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.4, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.4\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL.cs" />
+    <Compile Include="DAL.cs" />
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="globais.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8665236_circle_play_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3669309_pause_circle_filled_ic_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9024923_skip_forward_circle_light_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\216094_shuffle_arrow_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2203527_mute_sound_speaker_volume_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Best Logo in the universe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Radioactive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Best Logo in the universe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Album Imagine Dragons .png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Album Image Dragons direito.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8665236_circle_play_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9024923_skip_forward_circle_light_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2203527_mute_sound_speaker_volume_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Go to link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Go to link1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2203527_mute_sound_speaker_volume_icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9024923_skip_forward_circle_light_icon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\216094_shuffle_arrow_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PauseIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PauseIcon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Atulizado OpticMusic Logo11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10132131_image_plus_line_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asdhah.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\352174_user_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\363633-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\363633-2001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sad vibes_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hip hop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guitarhero.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\185038_home_house_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\103554_folder_music_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\103554_folder_music_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Correct icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Warning icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\381599_error_icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\381599_error_icon %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Correct icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\363633-2002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Favorito.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Favorito1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\The weeknd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Top hits.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\363633-2003.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imagem nao inserida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem Título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7754974_media player_button_music_song_entertainment_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7754974_media player_button_music_song_entertainment_icon %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7754974_media player_button_music_song_entertainment_icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto playlist.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\foto playlist1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
